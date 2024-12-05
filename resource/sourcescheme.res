@@ -170,8 +170,9 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"16"
+				"tall"		"22"
 				"weight"  	"500"
+				"antialias" "1"
 			}
 		}
 
@@ -184,6 +185,7 @@ Scheme
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
+				"antialias" "1"
 			}
 			"2"
 			{
@@ -192,6 +194,7 @@ Scheme
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
+				"antialias" "1"
 			}
 			"3"
 			{

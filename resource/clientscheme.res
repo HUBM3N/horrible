@@ -473,7 +473,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "antialias" "1" "tall"		"14"
 				"weight"  	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
@@ -482,8 +482,8 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"15"	[$WIN32]
-				"tall"		"20"	[$X360]
+				"antialias" "1" "tall"		"15"	[$WIN32]
+				"antialias" "1" "tall"		"20"	[$X360]
 				"weight"  	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
@@ -492,7 +492,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
@@ -502,7 +502,7 @@ Scheme
 			"4"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"weight"  	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
@@ -511,7 +511,7 @@ Scheme
 			"5" // Misyl: Proportional
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"11"
+				"antialias" "1" "tall"		"11"
 				"weight"  	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"antialias"	"1"
@@ -519,7 +519,7 @@ Scheme
 			"6"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"range" 		"0x0000 0x00FF"
 				"weight"  		"900"
 				"antialias" "1"
@@ -527,7 +527,7 @@ Scheme
 			"7"
 			{
 				"name" "Catamaran SemiBold" //		"Arial"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"range" 		"0x0000 0x00FF"
 				"weight"  		"800"
 				"antialias" "1"
@@ -540,7 +540,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Tahoma"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"500"
 				"underline" "1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -549,7 +549,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"Arial"
-				"tall"		"13"
+				"antialias" "1" "tall"		"13"
 				"range" 		"0x0000 0x00FF"
 				"weight"  		"800"
 				"antialias" "1"
@@ -560,7 +560,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"480 599"
@@ -569,7 +569,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"15"
+				"antialias" "1" "tall"		"15"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"600 767"
@@ -578,7 +578,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"768 1023"
@@ -587,7 +587,7 @@ Scheme
 			"4"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1024 1199"
@@ -596,7 +596,7 @@ Scheme
 			"5" // Misyl: Proportional
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"11"
+				"antialias" "1" "tall"		"11"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F"
 				"antialias"	"1"
@@ -604,7 +604,7 @@ Scheme
 			"6"
 			{
 				"name" "Catamaran SemiBold" //		"Arial"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"range" 		"0x0000 0x00FF"
 				"weight"  		"0"
 				"antialias" "1"
@@ -617,7 +617,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
@@ -626,7 +626,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
@@ -635,7 +635,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
@@ -644,7 +644,7 @@ Scheme
 			"4"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
@@ -653,7 +653,7 @@ Scheme
 			"5" // Misyl: Proportional
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"11"
+				"antialias" "1" "tall"		"11"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"antialias"	"1"
@@ -664,7 +664,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"weight"  	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
@@ -673,7 +673,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"23"
+				"antialias" "1" "tall"		"23"
 				"weight"  	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 767"
@@ -682,7 +682,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"24"
+				"antialias" "1" "tall"		"24"
 				"weight"  	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"768 1023"
@@ -692,7 +692,7 @@ Scheme
 			"4"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"30"
+				"antialias" "1" "tall"		"30"
 				"weight"  	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1024 1199"
@@ -701,7 +701,7 @@ Scheme
 			"5" // Misyl: Proportional
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"weight"  	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"antialias"	"1"
@@ -709,7 +709,7 @@ Scheme
 			"6"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"range" 		"0x0000 0x00FF"
 				"weight"  		"900"
 				"antialias" "1"
@@ -717,7 +717,7 @@ Scheme
 			"7"
 			{
 				"name" "Catamaran SemiBold" //		"Arial"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"range" 		"0x0000 0x00FF"
 				"weight"  		"800"
 				"antialias" "1"
@@ -730,7 +730,7 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"Trebuchet MS" [!$OSX]
 				"name" "Catamaran SemiBold" //		"Helvetica" [$OSX]
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"weight"  	"900"
 				"antialias" "1"
 				"additive"	"1"
@@ -742,7 +742,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"8"
+				"antialias" "1" "tall"		"8"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -753,7 +753,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"1200"
 				"additive"	"0"
 				"antialias" "1"
@@ -764,7 +764,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"1200"
 				"additive"	"0"
 				"antialias" "1"
@@ -775,7 +775,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"18"
+				"antialias" "1" "tall"		"18"
 				"weight"  	"1200"
 				"additive"	"0"
 				"antialias" "1"
@@ -786,36 +786,36 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"700"
 				"yres"	"480 599"
 			}
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"15"	[$WIN32]
-				"tall"		"23"	[$X360]
+				"antialias" "1" "tall"		"15"	[$WIN32]
+				"antialias" "1" "tall"		"23"	[$X360]
 				"weight"  	"700"
 				"yres"	"600 767"
 			}
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"700"
 				"yres"	"768 1023"
 			}
 			"4"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"weight"  	"700"
 				"yres"	"1024 1199"
 			}
 			"5" // Misyl: Proportional
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -825,7 +825,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"tall_lodef"	"80"
 				"weight"  	"500"
 				"additive"	"0"
@@ -835,7 +835,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"34"
+				"antialias" "1" "tall"		"34"
 				"tall_hidef"	"120"
 				"weight"  	"500"
 				"additive"	"0"
@@ -845,7 +845,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"46"
+				"antialias" "1" "tall"		"46"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -854,7 +854,7 @@ Scheme
 			"4"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"50"
+				"antialias" "1" "tall"		"50"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -863,7 +863,7 @@ Scheme
 			"5"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -874,7 +874,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"46"
+				"antialias" "1" "tall"		"46"
 				"tall_lodef"	"52"
 				"weight"  	"500"
 				"additive"	"0"
@@ -887,7 +887,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"37"
+				"antialias" "1" "tall"		"37"
 				"tall_lodef"	"40"
 				"weight"  	"500"
 				"additive"	"0"
@@ -900,7 +900,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"38"
+				"antialias" "1" "tall"		"38"
 				"tall_hidef"	"48"
 				"weight"  	"500"
 				"additive"	"0"
@@ -912,7 +912,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"32"
+				"antialias" "1" "tall"		"32"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -923,7 +923,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"32"
+				"antialias" "1" "tall"		"32"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -934,7 +934,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"tall_lodef"		"28"
 				"weight"  	"500"
 				"additive"	"0"
@@ -946,7 +946,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"weight"  	"500"
 				"yres"		"1 1199"
 				"additive"	"0"
@@ -955,7 +955,7 @@ Scheme
 			"2" // Misyl: Proportional
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -966,7 +966,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -977,7 +977,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -988,7 +988,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
 				"weight"  	"500"
@@ -1001,7 +1001,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
 				"weight"  	"500"
@@ -1014,7 +1014,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"tall_lodef"	"16"
 				"weight"  	"500"
 				"additive"	"0"
@@ -1026,7 +1026,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"18"
+				"antialias" "1" "tall"		"18"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1037,7 +1037,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1048,7 +1048,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1060,7 +1060,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"13"
+				"antialias" "1" "tall"		"13"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1071,7 +1071,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"13"
+				"antialias" "1" "tall"		"13"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1083,7 +1083,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"13"
+				"antialias" "1" "tall"		"13"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1094,7 +1094,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"6"
+				"antialias" "1" "tall"		"6"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1105,7 +1105,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1116,7 +1116,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"18"
+				"antialias" "1" "tall"		"18"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1127,7 +1127,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"11"
+				"antialias" "1" "tall"		"11"
 				"weight"  	"0"
 				"additive"	"0"
 				"antialias" "1"
@@ -1138,7 +1138,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"11"
+				"antialias" "1" "tall"		"11"
 				"weight"  	"0"
 				"additive"	"0"
 				"antialias" "1"
@@ -1149,7 +1149,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"8"
+				"antialias" "1" "tall"		"8"
 				"weight"  	"0"
 				"additive"	"0"
 				"antialias" "1"
@@ -1160,7 +1160,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"tall_hidef"	"14"
 				"tall_lodef"	"16"
 				"weight"  	"400"
@@ -1173,7 +1173,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"13"
+				"antialias" "1" "tall"		"13"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1248,7 +1248,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
 				"weight"  	"500"
@@ -1261,7 +1261,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
 				"weight"  	"500"
@@ -1274,7 +1274,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
 				"weight"  	"500"
@@ -1288,7 +1288,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"10"
+				"antialias" "1" "tall"		"10"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1299,7 +1299,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"11"
+				"antialias" "1" "tall"		"11"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1310,7 +1310,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"10"
+				"antialias" "1" "tall"		"10"
 				"tall_hidef"	"9"
 				"tall_lodef"	"10"
 				"weight"  	"500"
@@ -1323,7 +1323,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"10"
+				"antialias" "1" "tall"		"10"
 				"tall_hidef"	"7"
 				"weight"  	"500"
 				"additive"	"0"
@@ -1335,7 +1335,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"17"
+				"antialias" "1" "tall"		"17"
 				"weight"  	"700"
 				"antialias" 	"1"
 				"yres"		"1 599"
@@ -1345,8 +1345,8 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"17"	[$WIN32]
-				"tall"		"21"	[$X360]
+				"antialias" "1" "tall"		"17"	[$WIN32]
+				"antialias" "1" "tall"		"21"	[$X360]
 				"weight"  	"700"
 				"antialias" 	"1"
 				"yres"		"600 767"
@@ -1356,7 +1356,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"weight"  	"900"
 				"antialias" 	"1"
 				"yres"		"768 1023"
@@ -1365,7 +1365,7 @@ Scheme
 			"4"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"23"
+				"antialias" "1" "tall"		"23"
 				"weight"  	"900"
 				"antialias" 	"1"
 				"yres"		"1024 1199"
@@ -1374,7 +1374,7 @@ Scheme
 			"5"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"weight"  	"1000"
 				"antialias" 	"1"
 				"yres"		"1200 10000"
@@ -1386,7 +1386,7 @@ Scheme
 			"1"	[$WIN32]
 			{
 				"name" "Catamaran SemiBold" //		"Courier New"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"400"
 				"outline"	"1"
 				"range"		"0x0000 0x017F" // Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1394,7 +1394,7 @@ Scheme
 			"1"	[$X360]
 			{
 				"name" "Catamaran SemiBold" //		"Tahoma"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"weight"  	"200"
 				"outline"	"1"
 			}
@@ -1404,7 +1404,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //  	"tfd" // tfd.ttf
-				"tall"  	"30"
+				"antialias" "1" "tall"  	"30"
 				"weight"   	"0"
 				"additive" 	"0"
 				"antialias" 	"1"
@@ -1416,7 +1416,7 @@ Scheme
 			"1"
 			 {
 				"name" "Catamaran SemiBold" //  	"Team Fortress" // tf.ttf
-				"tall"  	"30"
+				"antialias" "1" "tall"  	"30"
 				"weight"   	"0"
 				"additive" 	"1"
 				"antialias" 	"1"
@@ -1427,7 +1427,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Courier New"
-				"tall"		"92"
+				"antialias" "1" "tall"		"92"
 				"weight"  	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1440,7 +1440,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //  "Team Fortress" // tf.ttf
-				"tall"  "30"
+				"antialias" "1" "tall"  "30"
 				"weight"   "0"
 				"additive" "1"
 				"antialias" "1"
@@ -1448,7 +1448,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //  "Verdana"
-				"tall"  "30"
+				"antialias" "1" "tall"  "30"
 				"weight"   "0"
 				"additive" "1"
 				"antialias" "1"
@@ -1459,7 +1459,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Tahoma"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"tall_hidef"	"32"
 				"weight"  	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1470,7 +1470,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Tahoma"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"tall_hidef"	"32"
 				"weight"  	"500"
 				"italic"	"1"
@@ -1482,7 +1482,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Tahoma"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"tall_hidef"	"32"
 				"weight"  	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1493,7 +1493,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Tahoma"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"tall_hidef"	"32"
 				"weight"  	"900"
 				"italic"	"1"
@@ -1505,7 +1505,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Tahoma"
-				"tall"		"18"
+				"antialias" "1" "tall"		"18"
 				"tall_hidef"	"24"
 				"weight"  	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1518,7 +1518,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Marlett"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"weight"  	"0"
 				"symbol"	"1"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1529,7 +1529,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Marlett"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"0"
 				"symbol"	"1"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1540,7 +1540,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"antialias" "1"
 				"weight"  	"500"
 			}
@@ -1550,7 +1550,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"13"
+				"antialias" "1" "tall"		"13"
 				"tall_lodef"	"14"
 				"antialias" "1"
 				"weight"  	"500"
@@ -1561,7 +1561,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"antialias" "1"
 				"weight"  	"500"
 			}
@@ -1572,7 +1572,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"15"
+				"antialias" "1" "tall"		"15"
 				"tall_hidef"	"14"
 				"tall_lodef"	"17"
 				"weight"  	"800"
@@ -1586,7 +1586,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //			"TF2 Professor"
-				"tall"			"30"
+				"antialias" "1" "tall"			"30"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
 				"antialias"		"1" 
@@ -1601,7 +1601,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //			"TF2 Professor"
-				"tall"			"42"
+				"antialias" "1" "tall"			"42"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
 				"antialias"		"1"
@@ -1616,7 +1616,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Professor"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"tall_lodef"	"36"
 				"tall_hidef"	"36"
 				"antialias" "1"
@@ -1629,8 +1629,8 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //			"TF2 Professor"
-				"tall"			"16" [!$OSX]
-				"tall"			"17" [$OSX]
+				"antialias" "1" "tall"			"16" [!$OSX]
+				"antialias" "1" "tall"			"17" [$OSX]
 				"tall_lodef"	"32"
 				"tall_hidef"	"32"
 				"antialias"		"1"
@@ -1643,7 +1643,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"8"
+				"antialias" "1" "tall"		"8"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1654,7 +1654,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"10"
+				"antialias" "1" "tall"		"10"
 				"tall_hidef"	"10"
 				"tall_lodef"	"14"
 				"weight"  	"400"
@@ -1667,7 +1667,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
 				"weight"  	"400"
@@ -1680,7 +1680,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1692,7 +1692,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"weight"  	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1704,7 +1704,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
 				"weight"  	"500"
@@ -1718,7 +1718,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1730,7 +1730,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"weight"  	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1742,7 +1742,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"36"
+				"antialias" "1" "tall"		"36"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
 				"weight"  	"500"
@@ -1757,7 +1757,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"38"
+				"antialias" "1" "tall"		"38"
 				"tall_hidef"	"48"
 				"weight"  	"500"
 				"additive"	"0"
@@ -1769,7 +1769,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"54"
+				"antialias" "1" "tall"		"54"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
 				"weight"  	"400"
@@ -1779,7 +1779,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"74"
+				"antialias" "1" "tall"		"74"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
 				"weight"  	"400"
@@ -1789,7 +1789,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"102"
+				"antialias" "1" "tall"		"102"
 				"range" 	"0x0000 0x00FF"
 				"weight"  	"400"
 				"yres"		"768 1023"
@@ -1798,7 +1798,7 @@ Scheme
 			"4"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"142"
+				"antialias" "1" "tall"		"142"
 				"range" 	"0x0000 0x00FF"
 				"weight"  	"400"
 				"yres"		"1024 1199"
@@ -1807,7 +1807,7 @@ Scheme
 			"5"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"182"
+				"antialias" "1" "tall"		"182"
 				"range" 	"0x0000 0x00FF"
 				"weight"  	"400"
 				"yres"		"1200 10000"
@@ -1819,7 +1819,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"38"
+				"antialias" "1" "tall"		"38"
 				"weight"  	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1831,7 +1831,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1842,7 +1842,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1853,7 +1853,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1864,7 +1864,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1875,7 +1875,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"9"
+				"antialias" "1" "tall"		"9"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1887,7 +1887,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
 				"weight"  	"400"
@@ -1901,7 +1901,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"700"
 				"yres"		"480 599"
 				"dropshadow"	"0"
@@ -1909,7 +1909,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"15"
+				"antialias" "1" "tall"		"15"
 				"weight"  	"700"
 				"yres"		"600 767"
 				"dropshadow"	"0"
@@ -1917,7 +1917,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"700"
 				"yres"		"768 1023"
 				"dropshadow"	"0"
@@ -1925,7 +1925,7 @@ Scheme
 			"4"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"weight"  	"700"
 				"yres"		"1024 1199"
 				"dropshadow"	"0"
@@ -1933,7 +1933,7 @@ Scheme
 			"5"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"weight"  	"700"
 				"yres"		"1200 10000"
 				"dropshadow"	"0"
@@ -1944,7 +1944,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"700"
 				"yres"		"480 599"
 				"dropshadow"	"1"
@@ -1952,7 +1952,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"15"
+				"antialias" "1" "tall"		"15"
 				"weight"  	"700"
 				"yres"		"600 767"
 				"dropshadow"	"1"
@@ -1960,7 +1960,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"700"
 				"yres"		"768 1023"
 				"dropshadow"	"1"
@@ -1968,7 +1968,7 @@ Scheme
 			"4"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"weight"  	"700"
 				"yres"		"1024 1199"
 				"dropshadow"	"1"
@@ -1976,7 +1976,7 @@ Scheme
 			"5"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"weight"  	"700"
 				"yres"		"1200 10000"
 				"dropshadow"	"1"
@@ -1987,7 +1987,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"700"
 				"yres"		"480 599"
 				"dropshadow"	"1"
@@ -1995,7 +1995,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"700"
 				"yres"		"600 767"
 				"dropshadow"	"1"
@@ -2003,7 +2003,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"15"
+				"antialias" "1" "tall"		"15"
 				"weight"  	"700"
 				"yres"		"768 1023"
 				"dropshadow"	"1"
@@ -2011,7 +2011,7 @@ Scheme
 			"4"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"700"
 				"yres"		"1024 1199"
 				"dropshadow"	"1"
@@ -2019,7 +2019,7 @@ Scheme
 			"5"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"17"
+				"antialias" "1" "tall"		"17"
 				"weight"  	"700"
 				"yres"		"1200 10000"
 				"dropshadow"	"1"
@@ -2031,7 +2031,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //			"Arial Black"
-				"tall"			"10"
+				"antialias" "1" "tall"			"10"
 				"tall_lodef"	"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"  		"300"
@@ -2044,7 +2044,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
 				"weight"  		"300"
@@ -2057,7 +2057,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"TextColor"	"Black"
@@ -2069,7 +2069,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"10"
+				"antialias" "1" "tall"		"10"
 				"weight"  	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"TextColor"	"Black"
@@ -2082,7 +2082,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"10"
+				"antialias" "1" "tall"		"10"
 				"tall_hidef"	"10"
 				"tall_lodef"	"12"
 				"weight"  	"0"
@@ -2095,7 +2095,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"11"
+				"antialias" "1" "tall"		"11"
 				"tall_hidef"	"10"
 				"tall_lodef"	"16"
 				"weight"  	"400"
@@ -2109,8 +2109,8 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"13"  [!$OSX]
-				"tall"		"9"  [$OSX]
+				"antialias" "1" "tall"		"13"  [!$OSX]
+				"antialias" "1" "tall"		"9"  [$OSX]
 				"weight"  	"800"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2122,7 +2122,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"38"
+				"antialias" "1" "tall"		"38"
 				"tall_lodef"		"28"
 				"weight"  	"500"
 			}
@@ -2132,7 +2132,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"32"
+				"antialias" "1" "tall"		"32"
 				"tall_lodef"		"22"
 				"weight"  	"500"
 			}
@@ -2142,7 +2142,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"30"
+				"antialias" "1" "tall"		"30"
 				"tall_lodef"	"24"
 				"weight"  	"500"
 			}
@@ -2152,7 +2152,7 @@ Scheme
 			"1"			// brower item hostname
 			{
 				"name" "Catamaran SemiBold" //		"Trebuchet MS"
-				"tall"		"24"
+				"antialias" "1" "tall"		"24"
 				"weight"  	"900"
 			}
 		}
@@ -2161,7 +2161,7 @@ Scheme
 			"1"			// browser item players and map name
 			{
 				"name" "Catamaran SemiBold" //		"Trebuchet MS"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"weight"  	"900"
 			}
 		}		
@@ -2170,7 +2170,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"24"
+				"antialias" "1" "tall"		"24"
 				"weight"  	"500"
 			}
 		}
@@ -2179,7 +2179,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"weight"  	"500"
 			}
 		}
@@ -2188,7 +2188,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"24"
+				"antialias" "1" "tall"		"24"
 				"tall_lodef"		"18"
 				"weight"  	"900"
 			}
@@ -2198,7 +2198,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"tall_lodef"		"18"
 				"weight"  	"900"
 			}
@@ -2208,7 +2208,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"17"
+				"antialias" "1" "tall"		"17"
 				"weight"  	"900"
 			}
 		}
@@ -2218,7 +2218,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"38"
+				"antialias" "1" "tall"		"38"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2229,7 +2229,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"13"
+				"antialias" "1" "tall"		"13"
 				"weight"  	"600"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2240,7 +2240,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2251,7 +2251,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Trebuchet MS"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"900"
 				"antialias" "1"
 			}
@@ -2261,7 +2261,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"600"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2272,7 +2272,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2283,7 +2283,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"9"
+				"antialias" "1" "tall"		"9"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2295,7 +2295,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
@@ -2304,7 +2304,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 1199"
@@ -2313,7 +2313,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"17"
+				"antialias" "1" "tall"		"17"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1200 6000"
@@ -2326,7 +2326,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"10"
+				"antialias" "1" "tall"		"10"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2337,7 +2337,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"11"
+				"antialias" "1" "tall"		"11"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2348,7 +2348,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2359,7 +2359,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2370,7 +2370,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"9"
+				"antialias" "1" "tall"		"9"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2381,7 +2381,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"10"
+				"antialias" "1" "tall"		"10"
 				"antialias" "1"
 				"weight"  	"500"
 			}
@@ -2391,7 +2391,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"10"
+				"antialias" "1" "tall"		"10"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2402,7 +2402,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"13"
+				"antialias" "1" "tall"		"13"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2413,7 +2413,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2425,7 +2425,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"11"
+				"antialias" "1" "tall"		"11"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2436,7 +2436,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"11"
+				"antialias" "1" "tall"		"11"
 				"weight"  	"500"
 				"blur"		"3"
 				"additive"	"1"
@@ -2448,7 +2448,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"9"
+				"antialias" "1" "tall"		"9"
 				"weight"  	"0"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2459,8 +2459,8 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"9" [!$POSIX]
-				"tall"		"8" [$POSIX]
+				"antialias" "1" "tall"		"9" [!$POSIX]
+				"antialias" "1" "tall"		"8" [$POSIX]
 				"weight"  	"0"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2471,8 +2471,8 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"9" [!$POSIX]
-				"tall"		"8" [$POSIX]
+				"antialias" "1" "tall"		"9" [!$POSIX]
+				"antialias" "1" "tall"		"8" [$POSIX]
 				"weight"  	"0"
 				"antialias" 	"1"
 			}
@@ -2482,8 +2482,8 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"9" [!$POSIX]
-				"tall"		"8" [$POSIX]
+				"antialias" "1" "tall"		"9" [!$POSIX]
+				"antialias" "1" "tall"		"8" [$POSIX]
 				"weight"  	"0"
 				"blur"		"3"
 				"additive"	"1"
@@ -2495,7 +2495,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"9"
+				"antialias" "1" "tall"		"9"
 				"weight"  	"0"
 				"antialias" 	"1"
 			}
@@ -2507,7 +2507,7 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"OCR A Extended" [$WINDOWS]
 				"name" "Catamaran SemiBold" //		"ocra"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"400"
 				"yres"		"480 599"
 				"additive"	"0"
@@ -2517,7 +2517,7 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"OCR A Extended" [$WINDOWS]
 				"name" "Catamaran SemiBold" //		"ocra"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"400"
 				"additive"	"0"
 				"yres"		"600 1023"
@@ -2527,7 +2527,7 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"OCR A Extended" [$WINDOWS]
 				"name" "Catamaran SemiBold" //		"ocra"	
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"weight"  	"400"
 				"additive"	"0"
 				"yres"		"1024 6000"
@@ -2541,7 +2541,7 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"OCR A Extended" [$WINDOWS]
 				"name" "Catamaran SemiBold" //		"ocra"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"800"
 				"yres"		"480 599"
 				"additive"	"0"
@@ -2551,7 +2551,7 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"OCR A Extended" [$WINDOWS]
 				"name" "Catamaran SemiBold" //		"ocra"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"800"
 				"additive"	"0"
 				"yres"		"600 1023"
@@ -2561,7 +2561,7 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"OCR A Extended" [$WINDOWS]
 				"name" "Catamaran SemiBold" //		"ocra"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"weight"  	"800"
 				"additive"	"0"
 				"yres"		"1024 6000"
@@ -2575,7 +2575,7 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"OCR A Extended" [$WINDOWS]
 				"name" "Catamaran SemiBold" //		"ocra"
-				"tall"		"18"
+				"antialias" "1" "tall"		"18"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2587,7 +2587,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Professor"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"antialias" "1"
 				"custom"		"1" [$OSX]
 				"weight"  	"500"
@@ -2599,7 +2599,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"400"
 				"yres"		"480 599"
 				"additive"	"0"
@@ -2608,7 +2608,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"400"
 				"additive"	"0"
 				"yres"		"600 1023"
@@ -2617,7 +2617,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"24"
+				"antialias" "1" "tall"		"24"
 				"weight"  	"400"
 				"additive"	"0"
 				"yres"		"1024 6000"
@@ -2630,7 +2630,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"400"
 				"yres"		"480 599"
 				"additive"	"0"
@@ -2640,7 +2640,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"400"
 				"additive"	"0"
 				"yres"		"600 1023"
@@ -2650,7 +2650,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"24"
+				"antialias" "1" "tall"		"24"
 				"weight"  	"400"
 				"additive"	"0"
 				"yres"		"1024 6000"
@@ -2664,7 +2664,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"800"
 				"yres"		"480 599"
 				"additive"	"0"
@@ -2673,7 +2673,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"800"
 				"additive"	"0"
 				"yres"		"600 1023"
@@ -2682,7 +2682,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"weight"  	"800"
 				"additive"	"0"
 				"yres"		"1024 6000"
@@ -2695,7 +2695,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"15"
+				"antialias" "1" "tall"		"15"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2707,7 +2707,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"18"
+				"antialias" "1" "tall"		"18"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2719,7 +2719,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2731,7 +2731,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"10"
+				"antialias" "1" "tall"		"10"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2742,7 +2742,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"10"
+				"antialias" "1" "tall"		"10"
 				"weight"  	"0"
 				"antialias" 	"1"
 			}
@@ -2753,7 +2753,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"10"
+				"antialias" "1" "tall"		"10"
 				"weight"  	"400"
 				"antialias" "1"
 				"additive"	"0"
@@ -2765,7 +2765,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Trebuchet MS"
-				"tall"		"11"
+				"antialias" "1" "tall"		"11"
 				"weight"  	"400"
 				"antialias" "1"
 				"additive"	"0"
@@ -2781,7 +2781,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
@@ -2789,7 +2789,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
@@ -2797,7 +2797,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
@@ -2806,7 +2806,7 @@ Scheme
 			"4"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
@@ -2815,7 +2815,7 @@ Scheme
 			"5"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"18"
+				"antialias" "1" "tall"		"18"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
@@ -2827,7 +2827,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"13"
+				"antialias" "1" "tall"		"13"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2838,7 +2838,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"480 599"
@@ -2846,7 +2846,7 @@ Scheme
 			"2"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"15"
+				"antialias" "1" "tall"		"15"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"600 767"
@@ -2854,7 +2854,7 @@ Scheme
 			"3"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"768 1023"
@@ -2863,7 +2863,7 @@ Scheme
 			"4"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"22"
+				"antialias" "1" "tall"		"22"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1024 1199"
@@ -2872,7 +2872,7 @@ Scheme
 			"5"
 			{
 				"name" "Catamaran SemiBold" //		"Verdana"
-				"tall"		"24"
+				"antialias" "1" "tall"		"24"
 				"weight"  	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1200 6000"
@@ -2881,7 +2881,7 @@ Scheme
 			"6"
 			{
 				"name" "Catamaran SemiBold" //		"Arial"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"range" 		"0x0000 0x00FF"
 				"weight"  		"0"
 			}
@@ -2891,7 +2891,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"13"
+				"antialias" "1" "tall"		"13"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2902,7 +2902,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2913,7 +2913,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
 				"weight"  	"500"
@@ -2926,7 +2926,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2937,7 +2937,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"20"
+				"antialias" "1" "tall"		"20"
 				"tall_hidef"	"26"
 				"tall_lodef"	"20"
 				"weight"  	"500"
@@ -2954,7 +2954,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2965,7 +2965,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"26"
+				"antialias" "1" "tall"		"26"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2977,7 +2977,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"17"
+				"antialias" "1" "tall"		"17"
 				"weight"  	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -2990,7 +2990,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Secondary"
-				"tall"		"11"
+				"antialias" "1" "tall"		"11"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -3002,7 +3002,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"13"
+				"antialias" "1" "tall"		"13"
 				"weight"  	"500"
 				"antialias" 	"1"
 			}
@@ -3013,7 +3013,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"13"
+				"antialias" "1" "tall"		"13"
 				"weight"  	"500"
 				"blur"		"3"
 				"additive"	"1"
@@ -3026,7 +3026,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"TF2 Build"
-				"tall"		"14"
+				"antialias" "1" "tall"		"14"
 				"weight"  	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -3040,7 +3040,7 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"OCR A Extended" [$WINDOWS]
 				"name" "Catamaran SemiBold" //		"ocra"
-				"tall"		"9"
+				"antialias" "1" "tall"		"9"
 				"weight"  	"0"
 				"blur"		"3"
 				"additive"	"1"
@@ -3054,7 +3054,7 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"OCR A Extended" [$WINDOWS]
 				"name" "Catamaran SemiBold" //		"ocra"		
-				"tall"		"9"
+				"antialias" "1" "tall"		"9"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -3067,7 +3067,7 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"OCR A Extended" [$WINDOWS]
 				"name" "Catamaran SemiBold" //		"ocra"
-				"tall"		"12"
+				"antialias" "1" "tall"		"12"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -3080,7 +3080,7 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"OCR A Extended" [$WINDOWS]
 				"name" "Catamaran SemiBold" //		"ocra"
-				"tall"		"16"
+				"antialias" "1" "tall"		"16"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -3093,7 +3093,7 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"OCR A Extended" [$WINDOWS]
 				"name" "Catamaran SemiBold" //		"ocra"
-				"tall"		"32"
+				"antialias" "1" "tall"		"32"
 				"weight"  	"400"
 				"additive"	"0"
 				"antialias" "1"

@@ -240,7 +240,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Courier New"
-				"tall"		"12"
+				"tall"		"14"
 				"weight"  	"500"
 				"antialias" "1"
 			}
@@ -251,7 +251,7 @@ Scheme
 			"1"
 			{
 				"name" "Catamaran SemiBold" //		"Courier New"
-				"tall"		"9"
+				"tall"		"11"
 				"weight"  	"500"
 				"antialias" "1"
 			}
@@ -271,6 +271,7 @@ Scheme
 				"weight"  	 "0"
 				"outline"	 "0"
 				"dropshadow" "1"
+				"antialias" "1"
 			}
 		}
 		"Default"
@@ -279,9 +280,10 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"Tahoma" [!$OSX]
 				"name" "Catamaran SemiBold" //		"Verdana" [$OSX]
-				"tall"		"18" [!$LINUX]
-				"tall"		"18" [$LINUX]
+				"tall"		"22" [!$LINUX]
+				"tall"		"22" [$LINUX]
 				"weight"  	"500"
+				"antialias" "1"
 			}
 		}
 		"DefaultBold"
@@ -293,6 +295,7 @@ Scheme
 				"tall"		"18" [!$LINUX]
 				"tall"		"18" [$LINUX]
 				"weight"  	"1000"
+				"antialias" "1"
 			}
 		}
 		"DefaultUnderline"
@@ -305,6 +308,7 @@ Scheme
 				"tall"		"18" [$LINUX]
 				"weight"  	"500"
 				"underline" "1"
+				"antialias" "1"
 			}
 		}
 		"DefaultSmall"
@@ -316,6 +320,7 @@ Scheme
 				"tall"		"14" [!$POSIX]
 				"tall"		"15" [$POSIX]
 				"weight"  	"0"
+				"antialias" "1"
 			}
 		}
 		"DefaultSmallDropShadow"
@@ -327,6 +332,7 @@ Scheme
 				"tall"		"15"
 				"weight"  	"0"
 				"dropshadow" "1"
+				"antialias" "1"
 			}
 		}
 		"DefaultVerySmall"
@@ -337,6 +343,7 @@ Scheme
 				"name" "Catamaran SemiBold" //		"Verdana" [$OSX]
 				"tall"		"14"
 				"weight"  	"0"
+				"antialias" "1"
 			}
 		}
 
@@ -346,8 +353,9 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"Tahoma" [!$OSX]
 				"name" "Catamaran SemiBold" //		"Verdana" [$OSX]
-				"tall"		"20"
+				"tall"		"24"
 				"weight"  	"0"
+				"antialias" "1"
 			}
 		}
 		"UiBold"
@@ -356,9 +364,10 @@ Scheme
 			{
 				"name" "Catamaran SemiBold" //		"Tahoma" [!$OSX]
 				"name" "Catamaran SemiBold" //		"Verdana" [$OSX]
-				"tall"		"14" [!$LINUX]
+				"tall"		"19" [!$LINUX]
 				"tall"		"15" [$LINUX]
 				"weight"  	"1000"
+				"antialias" "1"
 			}
 			"1"	[$X360]
 			{
@@ -366,6 +375,7 @@ Scheme
 				"tall"		"26"
 				"weight"  	"2000"
 				"outline"	"1"
+				"antialias" "1"
 			}
 		}
 		"ChapterTitle"	[$X360]
@@ -377,6 +387,7 @@ Scheme
 				"tall_hidef"	"28"
 				"weight"  		"2000"
 				"outline"		"1"
+				"antialias" "1"
 			}
 		}
 		"ChapterTitleBlur"	[$X360]
@@ -389,6 +400,7 @@ Scheme
 				"weight"  		"2000"
 				"blur"			"3"
 				"blur_hidef"	"5"
+				"antialias" "1"
 			}
 		}
 		"MenuLarge"
@@ -495,6 +507,7 @@ Scheme
 				"tall"		"20" [$LINUX]
 				"tall"		"20"
 				"weight"  	"500"
+				"antialias" "1"
 			}
 		}
 
@@ -507,6 +520,7 @@ Scheme
 				"tall"		"16"
 				"weight"  	"0"
 				"symbol"	"1"
+				"antialias" "1"
 			}
 		}
 
@@ -517,6 +531,7 @@ Scheme
 				"name" "Catamaran SemiBold" //		"Trebuchet MS"
 				"tall"		"26"
 				"weight"  	"900"
+				"antialias" "1"
 			}
 		}
 
@@ -527,6 +542,7 @@ Scheme
 				"name" "Catamaran SemiBold" //		"Trebuchet MS"
 				"tall"		"22"
 				"weight"  	"900"
+				"antialias" "1"
 			}
 		}
 
@@ -537,6 +553,7 @@ Scheme
 				"name" "Catamaran SemiBold" //		"Trebuchet MS"
 				"tall"		"20"
 				"weight"  	"900"
+				"antialias" "1"
 			}
 		}
 
@@ -549,6 +566,7 @@ Scheme
 				"name" "Catamaran SemiBold" //		"Trebuchet MS"
 				"tall"		"42"
 				"weight"  	"900"
+				"antialias" "1"
 			}
 		}
 		"HUDNumber1"
@@ -558,6 +576,7 @@ Scheme
 				"name" "Catamaran SemiBold" //		"Trebuchet MS"
 				"tall"		"43"
 				"weight"  	"900"
+				"antialias" "1"
 			}
 		}
 		"HUDNumber2"
@@ -567,6 +586,7 @@ Scheme
 				"name" "Catamaran SemiBold" //		"Trebuchet MS"
 				"tall"		"44"
 				"weight"  	"900"
+				"antialias" "1"
 			}
 		}
 		"HUDNumber3"
@@ -576,6 +596,7 @@ Scheme
 				"name" "Catamaran SemiBold" //		"Trebuchet MS"
 				"tall"		"45"
 				"weight"  	"900"
+				"antialias" "1"
 			}
 		}
 		"HUDNumber4"
@@ -585,6 +606,7 @@ Scheme
 				"name" "Catamaran SemiBold" //		"Trebuchet MS"
 				"tall"		"46"
 				"weight"  	"900"
+				"antialias" "1"
 			}
 		}
 		"HUDNumber5"
@@ -594,6 +616,7 @@ Scheme
 				"name" "Catamaran SemiBold" //		"Trebuchet MS"
 				"tall"		"47"
 				"weight"  	"900"
+				"antialias" "1"
 			}
 		}
 		"DefaultFixed"
@@ -605,6 +628,7 @@ Scheme
 				"tall"		"11" [$POSIX]
 				"tall"		"12" [!$POSIX]
 				"weight"  	"0"
+				"antialias" "1"
 			}
 //			"1"
 //			{
@@ -625,6 +649,7 @@ Scheme
 				"tall"		"12"
 				"weight"  	"0"
 				"dropshadow" "1"
+				"antialias" "1"
 			}
 //			"1"
 //			{
@@ -642,6 +667,7 @@ Scheme
 				"name" "Catamaran SemiBold" //		"Verdana" [$OSX]
 				"tall"		"18"
 				"weight"  	"500"
+				"antialias" "1"
 			}
 		}
 		"CloseCaption_Italic"
@@ -653,6 +679,7 @@ Scheme
 				"tall"		"18"
 				"weight"  	"500"
 				"italic"	"1"
+				"antialias" "1"
 			}
 		}
 		"CloseCaption_Bold"
@@ -663,6 +690,7 @@ Scheme
 				"name" "Catamaran SemiBold" //		"Verdana Bold" [$OSX]
 				"tall"		"18"
 				"weight"  	"900"
+				"antialias" "1"
 			}
 		}
 		"CloseCaption_BoldItalic"
@@ -674,6 +702,7 @@ Scheme
 				"tall"		"18"
 				"weight"  	"900"
 				"italic"	"1"
+				"antialias" "1"
 			}
 		}
 
@@ -686,6 +715,7 @@ Scheme
 				"weight"  	"400"
 				"antialias"	"1"
 				"custom"	"1"
+				"antialias" "1"
 			}
 		}
 
@@ -698,6 +728,7 @@ Scheme
 				"weight"  	"400"
 				"antialias"	"1"
 				"custom"	"1"
+				"antialias" "1"
 			}
 		}
 
@@ -710,6 +741,7 @@ Scheme
 				"tall_hidef"	"24"
 				"weight"  		"900"
 				"antialias"		"1"
+				"antialias" "1"
 			}
 		}
 
@@ -840,6 +872,7 @@ Scheme
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
+				"antialias" "1"
 			}
 			"2"
 			{
@@ -848,6 +881,7 @@ Scheme
 				"weight"  	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
+				"antialias" "1"
 			}
 			"3"
 			{

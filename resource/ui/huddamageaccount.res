@@ -17,7 +17,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"dmg"
 		"xpos"			"cs-0.5"
-		"ypos"			"c112"
+		"ypos"			"c113"
 		"zpos"			"2"
 		"wide"			"100"
 		"tall"			"26"
@@ -31,7 +31,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor" "245 128 128 255"
-		"font"			"HudFontMediumBold"
+		"font"			"MatchmakingDialogMenuMedium"
 	}
 			"dmgs"
 	{
@@ -52,7 +52,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor" "black"
-		"font"			"HudFontMediumBold"
+		"font"			"MatchmakingDialogMenuMedium"
 		"pin_to_sibling" "dmg"
 	}
 }
