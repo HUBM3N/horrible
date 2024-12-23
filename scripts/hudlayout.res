@@ -197,12 +197,10 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"76"
-		"xpos_minmode"			"76"
-		"ypos"					"r152"
-		"ypos_minmode"			"r134"
-		"wide"					"116"
-		"tall"  				"180"
+		"xpos"					"0"
+		"ypos"					"0"
+		"wide"					"f0"
+		"tall"  				"f0"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
@@ -239,7 +237,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"c66"
+		"ypos"		"c35"
 		"wide"	 	"252"
 		"tall"	 	"25"
 		"priority"	"40"
@@ -258,7 +256,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"c50"
+		"ypos"		"c45"
 		"wide"	 	"252"
 		"tall"	 	"25"
 		"priority"	"40"
@@ -274,7 +272,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"c90"
+		"ypos"		"c60"
 		"wide"	 	"252"
 		"tall"	 	"50"
 		"priority"	"35"
@@ -483,8 +481,8 @@
 		"fieldName" "HudDeathNotice"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	 "r640"	[$WIN32]
-		"ypos"	 "18"	[$WIN32]
+		"xpos"	 "10"	[$WIN32]
+		"ypos"	 "8"	[$WIN32]
 		"xpos"	 "r672"	[$X360]
 		"ypos"	 "35"	[$X360]
 		"wide"	 "628"
@@ -495,7 +493,7 @@
 		"LineHeight"	  "13"
 		"LineSpacing"	  "1"
 		"CornerRadius"	  "2"
-		"RightJustify"	  "1"	// If 1, draw notices from the right
+		"RightJustify"	  "0"	// If 1, draw notices from the right
 		
 		"TextFont"		"hudfontsmallest"
 		
@@ -718,10 +716,10 @@
 		"fieldName"									"HudScopeCharge"
 		"visible"									"1"
 		"enabled"									"1"
-		"xpos"										"c-14"
-		"ypos"										"c-23"
+		"xpos"										"c-15"
+		"ypos"										"c-36+20"
 		"wide"										"50"
-		"tall"										"100"
+		"tall"										"50"
 	}
 	
 	HudVoiceSelfStatus

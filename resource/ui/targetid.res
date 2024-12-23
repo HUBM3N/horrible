@@ -213,7 +213,7 @@
 		"fieldName"		"TargetDataLabel1"
 		"font"			"hudfontsmallest"
 		"xpos"			"10"
-		"ypos"			"23"	[$WIN32]
+		"ypos"			"25"	[$WIN32]
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"15"

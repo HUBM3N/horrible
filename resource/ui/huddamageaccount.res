@@ -8,16 +8,16 @@
 		"delta_item_end_y"		"0"
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
-		"delta_lifetime"		"1.5"
+		"delta_lifetime"		"2"
 		"delta_item_font"		"HudFontMedium"
 		"delta_item_font_big"	"HudFontMedium"
 	}
-		"dmg"
+		"DamageAccountValue"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"dmg"
+		"fieldName"		"DamageAccountValue"
 		"xpos"			"cs-0.5"
-		"ypos"			"c113"
+		"ypos"			"c12"
 		"zpos"			"2"
 		"wide"			"100"
 		"tall"			"26"
@@ -31,12 +31,12 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor" "245 128 128 255"
-		"font"			"MatchmakingDialogMenuMedium"
+		"font"			"hudfontmediumsmall"
 	}
-			"dmgs"
+			"DamageAccountValueShadow"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"dmgs"
+		"fieldName"		"DamageAccountValueShadow"
 		"xpos"			"-1"
 		"ypos"			"-1"
 		"zpos"			"-1"
@@ -52,7 +52,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor" "black"
-		"font"			"MatchmakingDialogMenuMedium"
-		"pin_to_sibling" "dmg"
+		"font"			"hudfontmediumsmall"
+		"pin_to_sibling" "DamageAccountValue"
 	}
 }

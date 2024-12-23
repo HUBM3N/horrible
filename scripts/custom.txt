@@ -66,6 +66,24 @@ event HudSpyDisguiseFadeOut
 }
 
 //===========================================
+event DamagedPlayer
+{
+	Animate DamageAccountValue			alpha		"255"			Linear 0.0 0.0
+	Animate DamageAccountValue			alpha		"255"			Linear 1.2 0.0
+	Animate DamageAccountValue			alpha		"0"			Linear 1.2 0.8
+
+        Animate DamageAccountValueShadow			alpha		"255"			Linear 0.0 0.0
+	Animate DamageAccountValueShadow			alpha		"255"			Linear 1.2 0.0
+	Animate DamageAccountValueShadow			alpha		"0"			Linear 1.2 0.8
+
+	Animate healthacc			alpha		"255"			Linear 0.0 0.0
+	Animate healthacc			alpha		"255"			Linear 1.2 0.0
+	Animate healthacc			alpha		"0"			Linear 1.2 0.8
+	Animate healthacc			alpha		"255"			Linear 2.05 0.05
+
+
+
+}
 
 event FlagOutline{}
 event HasNotificationsBlink{}
